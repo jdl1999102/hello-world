@@ -1,2 +1,3 @@
 # hello-world
-just a examination
+Write the code
+Change the world
